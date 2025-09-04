@@ -9,13 +9,13 @@ the modern-day extensions of math’s infinite reach into understanding the univ
 ## About Me 🙋🏾‍♀️
 
 - I'm a 3nd year Mathematical Engineering student at
-- Yildiz Technical University ✨
+Yildiz Technical University ✨
 - I had a great passion and admiration for Artificial Intelligence since
 I was a kid in 8th grade :)
 - I've a great passion for leveraging technology to
-- solve social challenges 🌍
+solve social challenges 🌍
 - I'm a finalist in Teknofest 2025 Barrier-Free
-- Living Technologies competition 🚀
+Living Technologies competition 🚀
 
 ## Let's Connect :))
 
