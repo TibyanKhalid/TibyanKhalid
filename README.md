@@ -8,16 +8,11 @@ the modern-day extensions of math’s infinite reach into understanding the univ
 
 ## About Me 🙋🏾‍♀️
 
--🌟 I'm a 2nd year Mathematical Engineering student at Yildiz Technical University
--🚀 I had a great passion and admiration for Artificial Intelligence since
+- I'm a 3nd year Mathematical Engineering student at Yildiz Technical University ✨
+- I had a great passion and admiration for Artificial Intelligence since 
 I was a kid in 8th grade :)
-
-## Programming Skils 💻
-
-* C Programming Language
-* Python Programming Language
-* Git and Github
-* Jupyter Notebook
+- I've a great passion for leveraging technology to solve social challenges 🌍
+- I'm a finalist in Teknofest 2025 Barrier-Free Living Technologies competition 🚀
 
 ## Let's Connect :))
 
