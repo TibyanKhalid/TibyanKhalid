@@ -8,7 +8,7 @@ the modern-day extensions of math’s infinite reach into understanding the univ
 
 ## About Me 🙋🏾‍♀️
 
-- I'm a 3nd year Mathematical Engineering student at
+- I'm a 3rd year Mathematical Engineering student at
 Yildiz Technical University ✨
 - I had a great passion and admiration for Artificial Intelligence since
 I was a kid in 8th grade :)
